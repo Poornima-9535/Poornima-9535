@@ -8,8 +8,8 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 ## Skills and Technologies
 
 - **Web Development:** HTML, CSS, JavaScript (JS), Bootstrap, React.js, MongoDB, TypeScript, Node.js  
-- **Programming Languages:** Java  
-- **Other Tools:** Git, GitHub, Android Studio, Visual Studio Code (VS Code)
+- **Programming Languages:** Java, Python  
+- **Other Tools:** Git, GitHub, Android Studio, Visual Studio Code (VS Code), Firebase, Google Colab
 
 ## Known Languages
 
@@ -29,6 +29,9 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   </a>
@@ -41,6 +44,12 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 ### Other Skills
 
 <p align="left">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Colaboratory_SVG_Logo.svg" alt="google colab" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
   </a>
