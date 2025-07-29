@@ -9,7 +9,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 
 - **Web Development:** HTML, CSS, JavaScript (JS), Bootstrap, React.js, MongoDB, TypeScript, Node.js  
 - **Programming Languages:** Java, Python  
-- **Other Tools:** Git, GitHub, Android Studio, Visual Studio Code (VS Code), Firebase, Google Colab
+- **Other Tools:** Git, GitHub, Android Studio, Visual Studio Code (VS Code), Google Colab, Firebase
 
 ## Known Languages
 
@@ -48,7 +48,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Colaboratory_SVG_Logo.svg" alt="google colab" width="40" height="40"/>
+    <img src="https://www.gstatic.com/images/branding/product/1x/colab_512dp.png" alt="google colab" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
@@ -63,7 +63,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 
 ## Achievements
 
-<!-- You can add certifications, awards, contributions, etc. -->
+<!-- You can add certifications, awards, open-source contributions, hackathons, etc. -->
 
 ## Contact
 
